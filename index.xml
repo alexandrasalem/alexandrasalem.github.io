@@ -13,6 +13,14 @@
     </image>
     
     <item>
+      <title>Automating intended target identification for paraphasias in discourse using a large language model</title>
+      <link>https://alexandrasalem.github.io/talk/automating-intended-target-identification-for-paraphasias-in-discourse-using-a-large-language-model/</link>
+      <pubDate>Thu, 01 Jun 2023 15:45:00 +0000</pubDate>
+      <guid>https://alexandrasalem.github.io/talk/automating-intended-target-identification-for-paraphasias-in-discourse-using-a-large-language-model/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>ParAlg: A Paraphasia Algorithm for Multinomial Classification of Picture Naming Errors</title>
       <link>https://alexandrasalem.github.io/publication/casilio-paralg-2023/</link>
       <pubDate>Wed, 01 Feb 2023 00:00:00 +0000</pubDate>
@@ -269,7 +277,7 @@ data.head()
 
 
 
-&lt;div id=&#34;chart-782645391&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-915634872&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     let a = setInterval( function() {
@@ -279,7 +287,7 @@ data.head()
       clearInterval( a );
 
       Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
-        Plotly.plot(&#39;chart-782645391&#39;, chart.data, chart.layout, {responsive: true});
+        Plotly.plot(&#39;chart-915634872&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();

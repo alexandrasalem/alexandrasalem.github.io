@@ -2,6 +2,14 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://alexandrasalem.github.io/talk/automating-intended-target-identification-for-paraphasias-in-discourse-using-a-large-language-model/</loc>
+    <lastmod>2023-06-01T15:45:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://alexandrasalem.github.io/event/</loc>
+    <lastmod>2023-06-01T15:45:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>https://alexandrasalem.github.io/publication-type/2/</loc>
     <lastmod>2023-02-20T11:27:31-08:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -27,10 +35,6 @@
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://alexandrasalem.github.io/talk/improving-automatic-semantic-similarity-classification-of-the-pnt/</loc>
-    <lastmod>2021-10-24T12:30:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://alexandrasalem.github.io/event/</loc>
     <lastmod>2021-10-24T12:30:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>

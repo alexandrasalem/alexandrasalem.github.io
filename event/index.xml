@@ -5,12 +5,20 @@
     <link>https://alexandrasalem.github.io/event/</link>
       <atom:link href="https://alexandrasalem.github.io/event/index.xml" rel="self" type="application/rss+xml" />
     <description>Recent &amp; Upcoming Talks</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 24 Oct 2021 12:30:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 01 Jun 2023 15:45:00 +0000</lastBuildDate>
     <image>
       <url>https://alexandrasalem.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Recent &amp; Upcoming Talks</title>
       <link>https://alexandrasalem.github.io/event/</link>
     </image>
+    
+    <item>
+      <title>Automating intended target identification for paraphasias in discourse using a large language model</title>
+      <link>https://alexandrasalem.github.io/talk/automating-intended-target-identification-for-paraphasias-in-discourse-using-a-large-language-model/</link>
+      <pubDate>Thu, 01 Jun 2023 15:45:00 +0000</pubDate>
+      <guid>https://alexandrasalem.github.io/talk/automating-intended-target-identification-for-paraphasias-in-discourse-using-a-large-language-model/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Improving Automatic Semantic Similarity Classification of the PNT</title>

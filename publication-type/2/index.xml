@@ -2,37 +2,37 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>2 | Alexandra Salem</title>
-    <link>https://alexandrasalem.github.io/publication-type/2/</link>
-      <atom:link href="https://alexandrasalem.github.io/publication-type/2/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://alexandrasalem.com/publication-type/2/</link>
+      <atom:link href="https://alexandrasalem.com/publication-type/2/index.xml" rel="self" type="application/rss+xml" />
     <description>2</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Feb 2023 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://alexandrasalem.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <url>https://alexandrasalem.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>2</title>
-      <link>https://alexandrasalem.github.io/publication-type/2/</link>
+      <link>https://alexandrasalem.com/publication-type/2/</link>
     </image>
     
     <item>
       <title>ParAlg: A Paraphasia Algorithm for Multinomial Classification of Picture Naming Errors</title>
-      <link>https://alexandrasalem.github.io/publication/casilio-paralg-2023/</link>
+      <link>https://alexandrasalem.com/publication/casilio-paralg-2023/</link>
       <pubDate>Wed, 01 Feb 2023 00:00:00 +0000</pubDate>
-      <guid>https://alexandrasalem.github.io/publication/casilio-paralg-2023/</guid>
+      <guid>https://alexandrasalem.com/publication/casilio-paralg-2023/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Refining Semantic Similarity of Paraphasias Using a Contextual Language Model</title>
-      <link>https://alexandrasalem.github.io/publication/salem-refining-2022/</link>
+      <link>https://alexandrasalem.com/publication/salem-refining-2022/</link>
       <pubDate>Thu, 01 Dec 2022 00:00:00 +0000</pubDate>
-      <guid>https://alexandrasalem.github.io/publication/salem-refining-2022/</guid>
+      <guid>https://alexandrasalem.com/publication/salem-refining-2022/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Evaluating atypical language in autism using automated language measures</title>
-      <link>https://alexandrasalem.github.io/publication/salem-evaluating-2021/</link>
+      <link>https://alexandrasalem.com/publication/salem-evaluating-2021/</link>
       <pubDate>Sat, 01 May 2021 00:00:00 +0000</pubDate>
-      <guid>https://alexandrasalem.github.io/publication/salem-evaluating-2021/</guid>
+      <guid>https://alexandrasalem.com/publication/salem-evaluating-2021/</guid>
       <description></description>
     </item>
     

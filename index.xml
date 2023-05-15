@@ -13,10 +13,10 @@
     </image>
     
     <item>
-      <title>Automating intended target identification for paraphasias in discourse using a large language model</title>
-      <link>https://alexandrasalem.com/talk/automating-intended-target-identification-for-paraphasias-in-discourse-using-a-large-language-model/</link>
+      <title>CAC 2023</title>
+      <link>https://alexandrasalem.com/talk/cac-2023/</link>
       <pubDate>Thu, 01 Jun 2023 15:45:00 +0000</pubDate>
-      <guid>https://alexandrasalem.com/talk/automating-intended-target-identification-for-paraphasias-in-discourse-using-a-large-language-model/</guid>
+      <guid>https://alexandrasalem.com/talk/cac-2023/</guid>
       <description></description>
     </item>
     
@@ -37,10 +37,10 @@
     </item>
     
     <item>
-      <title>Improving Automatic Semantic Similarity Classification of the PNT</title>
-      <link>https://alexandrasalem.com/talk/improving-automatic-semantic-similarity-classification-of-the-pnt/</link>
+      <title>AoA 2021</title>
+      <link>https://alexandrasalem.com/talk/aoa-2021/</link>
       <pubDate>Sun, 24 Oct 2021 12:30:00 +0000</pubDate>
-      <guid>https://alexandrasalem.com/talk/improving-automatic-semantic-similarity-classification-of-the-pnt/</guid>
+      <guid>https://alexandrasalem.com/talk/aoa-2021/</guid>
       <description></description>
     </item>
     
@@ -277,7 +277,7 @@ data.head()
 
 
 
-&lt;div id=&#34;chart-389547612&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-259481673&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     let a = setInterval( function() {
@@ -287,7 +287,7 @@ data.head()
       clearInterval( a );
 
       Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
-        Plotly.plot(&#39;chart-389547612&#39;, chart.data, chart.layout, {responsive: true});
+        Plotly.plot(&#39;chart-259481673&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();

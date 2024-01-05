@@ -13,6 +13,14 @@
     </image>
     
     <item>
+      <title>Automating Intended Target Identification for Paraphasias in Discourse Using a Large Language Model</title>
+      <link>https://alexandrasalem.com/publication/salem-identification-2023/</link>
+      <pubDate>Mon, 11 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>https://alexandrasalem.com/publication/salem-identification-2023/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>CAC 2023</title>
       <link>https://alexandrasalem.com/talk/cac-2023/</link>
       <pubDate>Thu, 01 Jun 2023 15:45:00 +0000</pubDate>
@@ -25,14 +33,6 @@
       <link>https://alexandrasalem.com/publication/gale-bort-2023/</link>
       <pubDate>Mon, 20 Feb 2023 19:17:55 +0000</pubDate>
       <guid>https://alexandrasalem.com/publication/gale-bort-2023/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>ParAlg: A Paraphasia Algorithm for Multinomial Classification of Picture Naming Errors</title>
-      <link>https://alexandrasalem.com/publication/casilio-paralg-2023/</link>
-      <pubDate>Wed, 01 Feb 2023 00:00:00 +0000</pubDate>
-      <guid>https://alexandrasalem.com/publication/casilio-paralg-2023/</guid>
       <description></description>
     </item>
     
@@ -285,7 +285,7 @@ data.head()
 
 
 
-&lt;div id=&#34;chart-352487961&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-391542876&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     let a = setInterval( function() {
@@ -295,7 +295,7 @@ data.head()
       clearInterval( a );
 
       Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
-        Plotly.plot(&#39;chart-352487961&#39;, chart.data, chart.layout, {responsive: true});
+        Plotly.plot(&#39;chart-391542876&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();

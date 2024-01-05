@@ -5,7 +5,7 @@
     <link>https://alexandrasalem.com/publication/</link>
       <atom:link href="https://alexandrasalem.com/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 20 Feb 2023 19:17:55 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 11 Dec 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://alexandrasalem.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Publications</title>
@@ -13,18 +13,18 @@
     </image>
     
     <item>
-      <title>Mixed Orthographic/Phonemic Language Modeling: Beyond Orthographically Restricted Transformers (BORT)</title>
-      <link>https://alexandrasalem.com/publication/gale-bort-2023/</link>
-      <pubDate>Mon, 20 Feb 2023 19:17:55 +0000</pubDate>
-      <guid>https://alexandrasalem.com/publication/gale-bort-2023/</guid>
+      <title>Automating Intended Target Identification for Paraphasias in Discourse Using a Large Language Model</title>
+      <link>https://alexandrasalem.com/publication/salem-identification-2023/</link>
+      <pubDate>Mon, 11 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>https://alexandrasalem.com/publication/salem-identification-2023/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>ParAlg: A Paraphasia Algorithm for Multinomial Classification of Picture Naming Errors</title>
-      <link>https://alexandrasalem.com/publication/casilio-paralg-2023/</link>
-      <pubDate>Wed, 01 Feb 2023 00:00:00 +0000</pubDate>
-      <guid>https://alexandrasalem.com/publication/casilio-paralg-2023/</guid>
+      <title>Mixed Orthographic/Phonemic Language Modeling: Beyond Orthographically Restricted Transformers (BORT)</title>
+      <link>https://alexandrasalem.com/publication/gale-bort-2023/</link>
+      <pubDate>Mon, 20 Feb 2023 19:17:55 +0000</pubDate>
+      <guid>https://alexandrasalem.com/publication/gale-bort-2023/</guid>
       <description></description>
     </item>
     

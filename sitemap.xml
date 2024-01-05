@@ -2,19 +2,11 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://alexandrasalem.com/talk/cac-2023/</loc>
-    <lastmod>2023-06-01T15:45:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://alexandrasalem.com/event/</loc>
-    <lastmod>2023-06-01T15:45:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
     <loc>https://alexandrasalem.com/publication-type/2/</loc>
     <lastmod>2023-02-20T11:27:31-08:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://alexandrasalem.com/publication/gale-bort-2023/</loc>
+    <loc>https://alexandrasalem.com/publication/salem-identification-2023/</loc>
     <lastmod>2023-02-20T11:17:55-08:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -26,8 +18,16 @@
     <lastmod>2023-02-20T11:27:31-08:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://alexandrasalem.com/publication/casilio-paralg-2023/</loc>
-    <lastmod>2023-02-20T11:24:54-08:00</lastmod>
+    <loc>https://alexandrasalem.com/talk/cac-2023/</loc>
+    <lastmod>2023-06-01T15:45:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://alexandrasalem.com/event/</loc>
+    <lastmod>2023-06-01T15:45:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://alexandrasalem.com/publication/gale-bort-2023/</loc>
+    <lastmod>2023-02-20T11:17:55-08:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://alexandrasalem.com/publication/salem-refining-2022/</loc>

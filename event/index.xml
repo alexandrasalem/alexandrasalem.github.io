@@ -5,12 +5,36 @@
     <link>https://alexandrasalem.com/event/</link>
       <atom:link href="https://alexandrasalem.com/event/index.xml" rel="self" type="application/rss+xml" />
     <description>Recent &amp; Upcoming Talks</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 01 Jun 2023 15:45:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 29 May 2024 13:00:00 +0000</lastBuildDate>
     <image>
       <url>https://alexandrasalem.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Recent &amp; Upcoming Talks</title>
       <link>https://alexandrasalem.com/event/</link>
     </image>
+    
+    <item>
+      <title>(Upcoming) CAC 2024</title>
+      <link>https://alexandrasalem.com/talk/upcoming-cac-2024/</link>
+      <pubDate>Wed, 29 May 2024 13:00:00 +0000</pubDate>
+      <guid>https://alexandrasalem.com/talk/upcoming-cac-2024/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>(Upcoming) ARVO 2024</title>
+      <link>https://alexandrasalem.com/talk/upcoming-arvo-2024/</link>
+      <pubDate>Wed, 08 May 2024 14:15:00 +0000</pubDate>
+      <guid>https://alexandrasalem.com/talk/upcoming-arvo-2024/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Invited talk: La Trobe University Aphasia CRE Seminar Series</title>
+      <link>https://alexandrasalem.com/talk/invited-talk-la-trobe-university-aphasia-cre-seminar-series/</link>
+      <pubDate>Wed, 24 Apr 2024 09:00:00 +0000</pubDate>
+      <guid>https://alexandrasalem.com/talk/invited-talk-la-trobe-university-aphasia-cre-seminar-series/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>CAC 2023</title>

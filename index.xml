@@ -13,6 +13,30 @@
     </image>
     
     <item>
+      <title>(Upcoming) CAC 2024</title>
+      <link>https://alexandrasalem.com/talk/upcoming-cac-2024/</link>
+      <pubDate>Wed, 29 May 2024 13:00:00 +0000</pubDate>
+      <guid>https://alexandrasalem.com/talk/upcoming-cac-2024/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>(Upcoming) ARVO 2024</title>
+      <link>https://alexandrasalem.com/talk/upcoming-arvo-2024/</link>
+      <pubDate>Wed, 08 May 2024 14:15:00 +0000</pubDate>
+      <guid>https://alexandrasalem.com/talk/upcoming-arvo-2024/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Invited talk: La Trobe University Aphasia CRE Seminar Series</title>
+      <link>https://alexandrasalem.com/talk/invited-talk-la-trobe-university-aphasia-cre-seminar-series/</link>
+      <pubDate>Wed, 24 Apr 2024 09:00:00 +0000</pubDate>
+      <guid>https://alexandrasalem.com/talk/invited-talk-la-trobe-university-aphasia-cre-seminar-series/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Automating Intended Target Identification for Paraphasias in Discourse Using a Large Language Model</title>
       <link>https://alexandrasalem.com/publication/salem-identification-2023/</link>
       <pubDate>Mon, 11 Dec 2023 00:00:00 +0000</pubDate>
@@ -285,7 +309,7 @@ data.head()
 
 
 
-&lt;div id=&#34;chart-391542876&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-428315976&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     let a = setInterval( function() {
@@ -295,7 +319,7 @@ data.head()
       clearInterval( a );
 
       Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
-        Plotly.plot(&#39;chart-391542876&#39;, chart.data, chart.layout, {responsive: true});
+        Plotly.plot(&#39;chart-428315976&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();

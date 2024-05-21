@@ -13,18 +13,18 @@
     </image>
     
     <item>
-      <title>(Upcoming) CAC 2024</title>
-      <link>https://alexandrasalem.com/talk/upcoming-cac-2024/</link>
+      <title>CAC 2024</title>
+      <link>https://alexandrasalem.com/talk/cac-2024/</link>
       <pubDate>Wed, 29 May 2024 13:00:00 +0000</pubDate>
-      <guid>https://alexandrasalem.com/talk/upcoming-cac-2024/</guid>
+      <guid>https://alexandrasalem.com/talk/cac-2024/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>(Upcoming) ARVO 2024</title>
-      <link>https://alexandrasalem.com/talk/upcoming-arvo-2024/</link>
+      <title>ARVO 2024</title>
+      <link>https://alexandrasalem.com/talk/arvo-2024/</link>
       <pubDate>Wed, 08 May 2024 14:15:00 +0000</pubDate>
-      <guid>https://alexandrasalem.com/talk/upcoming-arvo-2024/</guid>
+      <guid>https://alexandrasalem.com/talk/arvo-2024/</guid>
       <description></description>
     </item>
     
@@ -309,7 +309,7 @@ data.head()
 
 
 
-&lt;div id=&#34;chart-835291647&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-425173968&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     let a = setInterval( function() {
@@ -319,7 +319,7 @@ data.head()
       clearInterval( a );
 
       Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
-        Plotly.plot(&#39;chart-835291647&#39;, chart.data, chart.layout, {responsive: true});
+        Plotly.plot(&#39;chart-425173968&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();

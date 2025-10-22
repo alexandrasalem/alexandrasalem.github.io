@@ -5,12 +5,28 @@
     <link>https://alexandrasalem.com/event/</link>
       <atom:link href="https://alexandrasalem.com/event/index.xml" rel="self" type="application/rss+xml" />
     <description>Recent &amp; Upcoming Talks</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 29 May 2024 13:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 07 Dec 2025 15:45:00 +0000</lastBuildDate>
     <image>
       <url>https://alexandrasalem.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Recent &amp; Upcoming Talks</title>
       <link>https://alexandrasalem.com/event/</link>
     </image>
+    
+    <item>
+      <title>AI4Music @ NeurIPS 2025</title>
+      <link>https://alexandrasalem.com/talk/ai4music-@-neurips-2025/</link>
+      <pubDate>Sun, 07 Dec 2025 15:45:00 +0000</pubDate>
+      <guid>https://alexandrasalem.com/talk/ai4music-@-neurips-2025/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>WiML @ NeurIPS 2025</title>
+      <link>https://alexandrasalem.com/talk/wiml-@-neurips-2025/</link>
+      <pubDate>Tue, 02 Dec 2025 12:00:00 +0000</pubDate>
+      <guid>https://alexandrasalem.com/talk/wiml-@-neurips-2025/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>CAC 2024</title>

@@ -5,12 +5,20 @@
     <link>https://alexandrasalem.com/publication/</link>
       <atom:link href="https://alexandrasalem.com/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 11 Dec 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 25 Jan 2026 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://alexandrasalem.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Publications</title>
       <link>https://alexandrasalem.com/publication/</link>
     </image>
+    
+    <item>
+      <title>(Accepted) Evaluating Question Prosody in Text-to-Speech Software</title>
+      <link>https://alexandrasalem.com/publication/salem-prosody-2026/</link>
+      <pubDate>Sun, 25 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>https://alexandrasalem.com/publication/salem-prosody-2026/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Automating Intended Target Identification for Paraphasias in Discourse Using a Large Language Model</title>

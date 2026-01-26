@@ -13,6 +13,14 @@
     </image>
     
     <item>
+      <title>(Accepted) Evaluating Question Prosody in Text-to-Speech Software</title>
+      <link>https://alexandrasalem.com/publication/salem-prosody-2026/</link>
+      <pubDate>Sun, 25 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>https://alexandrasalem.com/publication/salem-prosody-2026/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>AI4Music @ NeurIPS 2025</title>
       <link>https://alexandrasalem.com/talk/ai4music-@-neurips-2025/</link>
       <pubDate>Sun, 07 Dec 2025 15:45:00 +0000</pubDate>
@@ -325,7 +333,7 @@ data.head()
 
 
 
-&lt;div id=&#34;chart-358691472&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-412683759&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     let a = setInterval( function() {
@@ -335,7 +343,7 @@ data.head()
       clearInterval( a );
 
       Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
-        Plotly.plot(&#39;chart-358691472&#39;, chart.data, chart.layout, {responsive: true});
+        Plotly.plot(&#39;chart-412683759&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();

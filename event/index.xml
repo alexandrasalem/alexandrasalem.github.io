@@ -5,12 +5,20 @@
     <link>https://alexandrasalem.com/event/</link>
       <atom:link href="https://alexandrasalem.com/event/index.xml" rel="self" type="application/rss+xml" />
     <description>Recent &amp; Upcoming Talks</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 07 Dec 2025 15:45:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 16 Apr 2026 12:00:00 +0000</lastBuildDate>
     <image>
       <url>https://alexandrasalem.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Recent &amp; Upcoming Talks</title>
       <link>https://alexandrasalem.com/event/</link>
     </image>
+    
+    <item>
+      <title>Conversations Across Time: Chatting with Ancient Philosophers</title>
+      <link>https://alexandrasalem.com/talk/conversations-across-time-chatting-with-ancient-philosophers/</link>
+      <pubDate>Thu, 16 Apr 2026 12:00:00 +0000</pubDate>
+      <guid>https://alexandrasalem.com/talk/conversations-across-time-chatting-with-ancient-philosophers/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>AI4Music @ NeurIPS 2025</title>

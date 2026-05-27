@@ -13,18 +13,18 @@
     </image>
     
     <item>
-      <title>Conversations Across Time: Chatting with Ancient Philosophers</title>
-      <link>https://alexandrasalem.com/talk/conversations-across-time-chatting-with-ancient-philosophers/</link>
-      <pubDate>Thu, 16 Apr 2026 12:00:00 +0000</pubDate>
-      <guid>https://alexandrasalem.com/talk/conversations-across-time-chatting-with-ancient-philosophers/</guid>
+      <title>Evaluating Question Prosody in Text-to-Speech Software</title>
+      <link>https://alexandrasalem.com/publication/salem-prosody-2026/</link>
+      <pubDate>Wed, 27 May 2026 00:00:00 +0000</pubDate>
+      <guid>https://alexandrasalem.com/publication/salem-prosody-2026/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>(Accepted) Evaluating Question Prosody in Text-to-Speech Software</title>
-      <link>https://alexandrasalem.com/publication/salem-prosody-2026/</link>
-      <pubDate>Sun, 25 Jan 2026 00:00:00 +0000</pubDate>
-      <guid>https://alexandrasalem.com/publication/salem-prosody-2026/</guid>
+      <title>Conversations Across Time: Chatting with Ancient Philosophers</title>
+      <link>https://alexandrasalem.com/talk/conversations-across-time-chatting-with-ancient-philosophers/</link>
+      <pubDate>Thu, 16 Apr 2026 12:00:00 +0000</pubDate>
+      <guid>https://alexandrasalem.com/talk/conversations-across-time-chatting-with-ancient-philosophers/</guid>
       <description></description>
     </item>
     
@@ -341,7 +341,7 @@ data.head()
 
 
 
-&lt;div id=&#34;chart-314795268&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-659842137&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     let a = setInterval( function() {
@@ -351,7 +351,7 @@ data.head()
       clearInterval( a );
 
       Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
-        Plotly.plot(&#39;chart-314795268&#39;, chart.data, chart.layout, {responsive: true});
+        Plotly.plot(&#39;chart-659842137&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
